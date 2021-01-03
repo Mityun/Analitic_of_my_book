@@ -25,5 +25,3 @@ for tag in tags:
             views = j
 print(views)
 
-
-#def search(tag):
